@@ -45,52 +45,7 @@ body {
     
 }
 
-.about1 {
-    
-    padding: 80px 0;
-    justify-content: center;
-    }
-    
-    .about1 h3 {
-    font-size: 36px;
-    font-weight: 700;
-    color: #2b2b2b;
-    }
-    
-    .about1 p {
-    font-size: 16px;
-    line-height: 24px;
-    color: #666;
-    }
-    
-    .about1 ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    }
-    
-   
-    
 
-
-    .about1 .row {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-wrap: wrap;
-        padding: 1rem 0;
-    }
-    
-    .about1 .row .info {
-        flex: 1 1 48rem;
-        padding: 3rem;
-    }
-    
-    .about1 .row .info h3 {
-        font-size: 2rem;
-        padding: 1rem 0;
-        font-weight: normal;
-    }
     
     
     .about .row h3 {
@@ -213,7 +168,7 @@ header .navbar ul li a:hover {
 .aboutme .content p {
     font-size: 2.5rem;
     padding: 1rem 0;
-    color: gray;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -345,12 +300,12 @@ header .navbar ul li a:hover {
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 5px;
-  color: #666;
+  color: #000000;
 }
 
 #previouswork p.date {
   font-size: 26px;
-  color: #999;
+  color: #000000;
   margin-bottom: 10px;
 }
 
@@ -409,14 +364,13 @@ header .navbar ul li a:hover {
     font-size: 26px;
     margin-bottom: 10px;
   }
+
 #project a {
     font-size: 28px;
     font-weight: bold;
     margin-bottom: 5px;
     color: #666;
   }
-
-
 
 
   
