@@ -409,6 +409,12 @@ header .navbar ul li a:hover {
     font-size: 26px;
     margin-bottom: 10px;
   }
+#project a {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #666;
+  }
 
 
 
