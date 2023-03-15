@@ -1,5 +1,8 @@
 Readme for rtummala.github.io
+
+
 Welcome to the Github repository for rtummala.github.io, a personal website created by Ramgopal Tummala. This repository contains the source code for the website, which is hosted using Github Pages.
+
 
 Table of Contents
 Usage
@@ -20,8 +23,31 @@ HTML
 CSS
 
 
+Webpage contains Different sections :
+
+About me 
+
+Education
+
+Skills
+
+Previous Work
+
+Projects
+
+Contact Me.
+
+
+
+
+Future Developments :
+
+Form Data can be saved into google spread sheet and we can generate automated mails and we can send to who ever filled the form . whith different messages 
+
+
+
+
 Contributing
 Contributions to the website are welcome! If you would like to contribute, please fork the repository and create a pull request. Make sure to describe your changes in detail and provide any necessary context.
 
-If you find any issues with the website, please create a new issue in the Github repository.
-
+Ramgopal Tummala,rtummala@pdx.edu, Portland State University
