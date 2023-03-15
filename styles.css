@@ -168,7 +168,7 @@ header .navbar ul li a:hover {
 .aboutme .content p {
     font-size: 2.5rem;
     padding: 1rem 0;
-    color: rgb(0, 0, 0);
+    color: black;
 }
 
 
@@ -305,7 +305,7 @@ header .navbar ul li a:hover {
 
 #previouswork p.date {
   font-size: 26px;
-  color: #000000;
+  color: black;
   margin-bottom: 10px;
 }
 
